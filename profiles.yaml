@@ -6,12 +6,12 @@ snowflake-dw:
       account: yv99219.us-central1.gcp
 
       #User/password auth
-      user: AIRBYTE_USER
-      password: AIRBYTE_PASSWORD
+      user: FELIPE
+      password: **************
 
-      role: AIRBYTE_ROLE
-      database: AIRBYTE_DATABASE
-      warehouse: AIRBYTE_WAREHOUSE
+      role: @@@@@@@@@@@@@@@@@
+      database: @@@@@@@@@@@@
+      warehouse: @@@@@@@@@@@@@
       schema: AIRBYTE_SCHEMA
       threads: 1
       client_session_keep_alive: False
